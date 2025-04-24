@@ -33,5 +33,5 @@ The project was developed as part of the academic curriculum for **Semester 2** 
 
 ## Author
 **Vaghela Purvarajsinh**  
-Semester 2 College Project
+Semester 2 College Project For PowerBI
 
