@@ -8,6 +8,11 @@ This project is a comprehensive data visualization and analysis solution created
 
 The project was developed as part of the academic curriculum for **Semester 2** by **Vaghela Purvarajsinh**.
 
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
+
+
 ## Key Features
 - **Data Import and Transformation**: Used Power Query Editor for cleaning and transforming raw data.
 - **Data Modeling**: Established relationships between different datasets for effective data analysis.
@@ -33,5 +38,4 @@ The project was developed as part of the academic curriculum for **Semester 2** 
 
 ## Author
 **Vaghela Purvarajsinh**  
-Semester 2 College Project For PowerBI
-
+Semester 2 College Project For Power BI
